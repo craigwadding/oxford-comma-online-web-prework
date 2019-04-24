@@ -1,5 +1,5 @@
-def oxford_comma(array)
-  ["kiwi"].join
+def oxford_comma([kiwi]).join
+
   => 
 
 end
